@@ -1,0 +1,9 @@
+[submodule "palindrome_number"]
+	path = palindrome_number
+	url = https://github.com/kristenqin/palindrome_number.git
+[submodule "temperature_converter"]
+	path = temperature_converter
+	url = https://github.com/kristenqin/temperature_converter.git
+[submodule "sum_digits"]
+	path = sum_digits
+	url = https://github.com/kristenqin/sum_digits.git

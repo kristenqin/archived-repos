@@ -1,0 +1,36 @@
+html {
+    /* 相对10px来设置调整 */
+    font-size: 10px;
+}
+.hover-image-highlight img {
+    background-color: white;
+    /* NOTE:如果不设置宽高的话 grid布局中元素的显示会非常奇怪 */
+    border: 1px solid #d8d6d6; /* 示例边框 */
+    padding: 20px; /* 示例内边距 */
+    text-align: center; /* 居中对齐 */
+
+    width: 18.75rem;
+    height: 18.75rem;
+
+    opacity: 0.5;
+    transition: opacity 0.3s ease;
+}
+
+.hover-image-highlight {
+    /* TODO: 下述样式实现还是有点小问题 */
+    /* 不设置宽高不行 */
+    width: calc(18.75rem * 3 + 10px * 4 + 20px * 6);
+    height: calc(18.75rem * 2 + 10px * 3 + 20px * 4);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 10px; /* 间隔大小，可以根据需要调整 */
+
+    background-color: black;
+
+    padding: 10px;
+}
+
+img.hlight {
+    opacity: 1;
+}
