@@ -1,0 +1,3 @@
+[submodule "引用子模块/git_collab_child_usecase"]
+	path = 引用子模块/git_collab_child_usecase
+	url = https://github.com/kristenqin/git_collab_child_usecase.git
