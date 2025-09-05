@@ -50,10 +50,22 @@
 - `data_structures` - 数据结构练习
 - `jq` - 个人练习项目
 
+### `graduation-projects/` - 毕业设计
+- `Douban-inspired-Online-Movie-Community-Platform` - 毕业设计项目
+
+### `personal-projects/` - 个人项目
+- `kristenqin` - 个人档案项目 (1 star)
+- `Dstructure` - 数据结构练习 (1 star)
+- `CodeExercise` - 代码练习记录 (private)
+- `LearningHappy` - 学习记录 (1 star)
+- `PLanguageLearning` - 编程语言学习 (1 star)
+- `TheFirstYearInCS` - 计算机科学第一年时间管理 (private)
+- `CodingPractice` - 平时敲代码记录 (private)
+
 ## 说明
 
 - 所有项目的Git历史记录已被移除以节省空间
-- 这些项目包含学习练习、课程作业和早期实验项目
+- 这些项目包含学习练习、课程作业、毕业设计和早期实验项目
 - 部分fork的项目可能已不再跟进原始仓库更新
 
 归档时间：2025年9月5日
